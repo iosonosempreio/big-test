@@ -1,4 +1,4 @@
-# How to run this
+# How to run this locally
 
 - check you have Ruby installed on your machine, open Terminal and type `ruby --version`
 - if you do not get something like `ruby 2.X.X`, you must [install ruby](https://www.ruby-lang.org/en/downloads/) (On macOS (High) Sierra and OS X El Capitan, Ruby should be included already)
